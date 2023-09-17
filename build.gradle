@@ -12,7 +12,7 @@ java {
 }
 
 jar {
-	enabled = falsed
+	enabled = false
 }
 
 repositories {
